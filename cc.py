@@ -6,4 +6,4 @@ import cv2
 
 path="images/disgust.jpg"
 image=cv2.imread(path)
-print("image",image)
+print("imagess",image)
